@@ -1,0 +1,4 @@
+Sample speech markdown breaks:
+None \pau=500\ and extra weak \pau=100\
+Weak \pau=250\ and medium \pau=500\
+Strong \pau=750\ and extra strong \pau=1000\

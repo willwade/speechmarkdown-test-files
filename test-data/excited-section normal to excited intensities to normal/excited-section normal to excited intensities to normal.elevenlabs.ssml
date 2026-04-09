@@ -1,0 +1,11 @@
+Normal speech.
+#[excited]
+I am excited - medium.
+#[excited:"medium"]
+I am excited - medium.
+#[excited:"low"]
+I am excited - low.
+#[excited:"high"]
+I am excited - high.
+#[defaults]
+Now back to normal speech.

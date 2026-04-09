@@ -1,0 +1,3 @@
+<speak>
+I'm at <say-as interpret-as="address">150th CT NE, Redmond, WA</say-as>.
+</speak>

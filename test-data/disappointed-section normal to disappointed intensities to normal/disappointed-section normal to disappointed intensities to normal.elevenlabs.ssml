@@ -1,0 +1,11 @@
+Normal speech.
+#[disappointed]
+I am disappointed - medium.
+#[disappointed:"medium"]
+I am disappointed - medium.
+#[disappointed:"low"]
+I am disappointed - low.
+#[disappointed:"high"]
+I am disappointed - high.
+#[defaults]
+Now back to normal speech.

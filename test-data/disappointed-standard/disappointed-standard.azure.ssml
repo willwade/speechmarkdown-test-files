@@ -1,0 +1,3 @@
+<speak xmlns:mstts="https://www.w3.org/2001/mstts">
+We can switch <mstts:express-as style="disappointed">from disappointed</mstts:express-as> to <mstts:express-as style="disappointed">really disappointed</mstts:express-as>.
+</speak>

@@ -1,0 +1,3 @@
+<speak>
+Your balance is: <emphasis level="strong"><say-as interpret-as="cardinal"><prosody volume="x-soft" rate="slow" pitch="high">12345</prosody></say-as></emphasis>.
+</speak>

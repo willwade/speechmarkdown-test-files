@@ -1,0 +1,3 @@
+<speak>
+The date is <say-as interpret-as="date" format="mdy">10-19-2016</say-as>.
+</speak>

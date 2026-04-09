@@ -1,0 +1,8 @@
+<speak>
+
+<voice name="Kendra">
+Section 1
+#[voice:"Brian";lang:"en-GB"]
+Section 2</voice>
+
+</speak>

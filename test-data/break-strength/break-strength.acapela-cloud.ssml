@@ -1,0 +1,6 @@
+<speak>
+Sample speech markdown breaks:
+None <break strength="none"/> and extra weak <break strength="x-weak"/>
+Weak <break strength="weak"/> and medium <break strength="medium"/>
+Strong <break strength="strong"/> and extra strong <break strength="x-strong"/>
+</speak>

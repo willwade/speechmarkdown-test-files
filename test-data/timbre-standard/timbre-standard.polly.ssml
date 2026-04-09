@@ -1,0 +1,3 @@
+<speak>
+<amazon:effect vocal-tract-length="+10%">text</amazon:effect>
+</speak>

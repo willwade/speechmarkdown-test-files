@@ -1,0 +1,3 @@
+<speak>
+The time is <say-as interpret-as="time" format="hms12">2:30pm</say-as>.
+</speak>

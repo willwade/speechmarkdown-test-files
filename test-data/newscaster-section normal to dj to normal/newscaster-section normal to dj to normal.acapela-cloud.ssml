@@ -1,0 +1,7 @@
+<speak>
+Normal speech.
+#[newscaster]
+Switching to a newscaster.
+#[defaults]
+Now back to normal speech.
+</speak>
