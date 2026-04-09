@@ -1,0 +1,3 @@
+<speak xmlns:mstts="https://www.w3.org/2001/mstts">
+<mstts:express-as style="newscast-formal">This is newscast-formal speech.</mstts:express-as>
+</speak>
