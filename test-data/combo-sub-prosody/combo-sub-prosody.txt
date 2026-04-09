@@ -1,0 +1,1 @@
+AI[sub:"Artificial Intelligence";rate:"slow"]

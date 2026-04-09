@@ -1,0 +1,3 @@
+<speak>
+<break time="250ms"/> <emphasis level="moderate">This is important</emphasis> <break time="500ms"/> and done.
+</speak>
