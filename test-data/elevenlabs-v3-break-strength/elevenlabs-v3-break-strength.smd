@@ -1,0 +1,3 @@
+None [break:"none"] x-weak [break:"x-weak"]
+weak [break:"weak"] medium [break:"medium"]
+strong [break:"strong"] x-strong [break:"x-strong"]
