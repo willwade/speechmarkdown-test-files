@@ -22,7 +22,8 @@ Each group of test files are in their own folder and file naming follows this co
 | `.samsung.ssml`       | SSML - Samsung Bixby             |
 | `.apple.ssml`         | SSML - Apple AVSpeechSynthesizer |
 | `.watson.ssml`        | SSML - IBM Watson                |
-| `.elevenlabs.ssml`    | SSML - ElevenLabs                |
+| `.elevenlabs.ssml`    | Prompt markup - ElevenLabs pre-v3 (break tags) |
+| `.elevenlabs-v3.ssml` | Audio-tag dialect - ElevenLabs v3 |
 | `.acapela-cloud.ssml` | SSML - Acapela Cloud             |
 | `.acapela.ssml`       | Native tags - Acapela Desktop    |
 
@@ -30,7 +31,7 @@ All data files are under the `test-data` folder.
 
 ### Platform-specific tests
 
-Some test cases only generate output for the relevant platform(s). For example, `azure-style-*` tests only produce `.azure.ssml` output since Azure-specific features (like emotional styles) have no equivalent on other platforms.
+Some test cases only generate output for the relevant platform(s). For example, `azure-style-*` tests only produce `.azure.ssml` output since Azure-specific features (like emotional styles) have no equivalent on other platforms. The `elevenlabs-v3-*` cases are authored against the Rust reference implementation (the JS reference has no v3 platform), and ElevenLabs fixtures target the current ElevenLabs documentation rather than legacy JS output: breaks use the documented seconds format.
 
 ### Test case categories
 
