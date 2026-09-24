@@ -24,6 +24,7 @@ Each group of test files are in their own folder and file naming follows this co
 | `.watson.ssml`        | SSML - IBM Watson                |
 | `.elevenlabs.ssml`    | Prompt markup - ElevenLabs pre-v3 (break tags) |
 | `.elevenlabs-v3.ssml` | Audio-tag dialect - ElevenLabs v3 |
+| `.gemini.ssml`        | Prompt dialect - Gemini 3.8 TTS (angle-bracket vocal bursts/pauses, CAPS emphasis) |
 | `.acapela-cloud.ssml` | SSML - Acapela Cloud             |
 | `.acapela.ssml`       | Native tags - Acapela Desktop    |
 
